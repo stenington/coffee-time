@@ -8,3 +8,7 @@ cd coffee-time
 npm install -g .
 coffee-time -h
 ```
+
+## Platform
+
+Built on/for OSX Terminal with the [Solarized](http://ethanschoonover.com/solarized) dark theme applied. YMMV otherwise.
