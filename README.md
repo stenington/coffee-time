@@ -1,5 +1,7 @@
 # coffee-time
 
+![demo](https://raw.github.com/stenington/coffee-time/master/coffee-time.gif)
+
 ## Quick Start
 
 ``` shell
